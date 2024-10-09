@@ -4,6 +4,16 @@ Currently, I'm studying for my Bachelor's degree in Information Systems at FIAP,
 I’m looking to collaborate with a great company to show my knowledge and skills in practice. 
 Currently, I am a trainee at the São Paulo Court of Justice, granting experience and expanding my network.
 
+## About me
+
+- I am 20 years old
+- Born and raised in São Paulo - Brazil
+- Full Stack Developer with expertise in both Front-end and Back-end
+- Focused on Web and Mobile development
+- Passionate about technology and digital innovations
+- Aspiring to work for a prominent and influential company in the industry
+- Committed to evolving daily as a person and a professional
+
 ## 📫 How to reach me 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marcelocintraa_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-cintra-64224b254/)
