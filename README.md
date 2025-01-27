@@ -8,8 +8,7 @@ Currently, I am a trainee at the São Paulo Court of Justice, granting experienc
 
 - I am 20 years old
 - Born and raised in São Paulo - Brazil
-- Full Stack Developer with expertise in both Front-end and Back-end
-- Focused on Web and Mobile development
+- Developer with expertise in both Front-end and Back-end
 - Passionate about technology and digital innovations
 - Aspiring to work for a prominent and influential company in the industry
 - Committed to evolving daily as a person and a professional
