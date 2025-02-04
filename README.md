@@ -31,7 +31,6 @@ Currently, I am a trainee at the São Paulo Court of Justice, granting experienc
 <p align="center">
 <a href="https://github.com/macintr">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=macintr&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Github Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaCintr&theme=react&mode=weekly" alt="GitHub Streak" />
 </a>
 </p>
 
